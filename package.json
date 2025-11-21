@@ -2,7 +2,7 @@
   "name": "hypedown-theme",
   "displayName": "hypedown theme",
   "description": "a dark theme, inspired by Mountaineer.vim colorscheme",
-  "version": "1.1.0",
+  "version": "1.3.0",
   "engines": {
     "vscode": "^1.77.0"
   },
