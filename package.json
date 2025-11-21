@@ -38,6 +38,11 @@
         "label": "Hypedown",
         "uiTheme": "vs-dark",
         "path": "./themes/hypedown.json"
+      },
+      {
+        "label": "Hypedown TS",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hyped-down-ts-color-theme.json"
       }
     ]
   }

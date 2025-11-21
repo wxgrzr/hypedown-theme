@@ -1,5 +1,5 @@
 {
-  "name": "Hyped Down",
+  "name": "Hyped Down TS",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -26,6 +26,15 @@
     },
     "namespace": {
       "foreground": "#8a8a8a"
+    },
+    "typeParameter": {
+      "foreground": "#c8c7bd"
+    },
+    "interface": {
+      "foreground": "#9ed8de"
+    },
+    "enum": {
+      "foreground": "#dff7a9"
     }
   },
   "tokenColors": [
@@ -1319,7 +1328,36 @@
       "name": "ts primitive/builtin types",
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
-        "foreground": "#8a8a8a"
+        "foreground": "#9ed8de"
+      }
+    },
+    {
+      "name": "ts type names",
+      "scope": "entity.name.type.ts,entity.name.type.tsx,entity.name.type.interface.ts,entity.name.type.interface.tsx,entity.name.type.alias.ts,entity.name.type.module.ts",
+      "settings": {
+        "foreground": "#9ed8de"
+      }
+    },
+    {
+      "name": "ts type parameters",
+      "scope": "entity.name.type.parameter.ts,entity.name.type.parameter.tsx",
+      "settings": {
+        "foreground": "#c8c7bd"
+      }
+    },
+    {
+      "name": "ts enums",
+      "scope": "entity.name.type.enum.ts,support.type.enum.ts",
+      "settings": {
+        "foreground": "#dff7a9"
+      }
+    },
+    {
+      "name": "ts decorators",
+      "scope": "meta.decorator.ts,meta.decorator.tsx,storage.type.decorator.ts",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#d1949e"
       }
     },
     {
