@@ -1,18 +1,44 @@
 # Change Log
 
-All notable changes to the "hyped-down-theme" extension will be documented in this file.
+All notable changes to **Hypedown** are documented here.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+This project follows semantic versioning and prioritizes long-session readability,
+low visual noise, and excellent TypeScript / React clarity.
 
-## [Unreleased]
+---
 
-## [1.2.0] - 2025-11-21
+## [1.3.0] – 2025-XX-XX
 
-- Added “Hypedown TS” variant with enhanced TypeScript token emphasis.
-- Tuned JSX/TSX tag/attribute/embedded expression coloring to improve object and component readability.
-- Softened string/quote colors to reduce white-on-white glare in template-heavy files.
-- Enabled semantic token colors for default library functions, methods, properties, and types.
+### Changed
 
-## [1.1.0] - 2025-11-21
+- Refined documentation and marketplace positioning
+- Clarified theme variants and intended use cases
 
-- Initial release
+---
+
+## [1.2.0] – 2025-11-21
+
+### Added
+
+- **Hypedown TS** variant, specifically tuned for TypeScript-heavy codebases
+- Enhanced semantic token support for:
+  - Default library functions
+  - Methods & properties
+  - Types and interfaces
+
+### Improved
+
+- JSX / TSX tag, attribute, and embedded expression coloring for better component scanning
+- Object and prop readability in dense React files
+- String and quote tones to reduce white-on-white glare in template-heavy code
+- Overall contrast balance without increasing visual noise
+
+---
+
+## [1.1.0] – 2025-11-21
+
+### Initial Release
+
+- Core Hypedown palette
+- Balanced contrast dark theme inspired by Vim workflows
+- Focused on calm UI chrome and readable syntax highlighting
