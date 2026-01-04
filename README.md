@@ -4,7 +4,7 @@
 
 It avoids over-saturation, rainbow syntax, and harsh contrast in favor of balance, clarity, and scanability.
 
-<img width="1484" height="1994" alt="image" src="https://github.com/user-attachments/assets/2d2f060b-3d95-4f28-876c-a6aaac556eed" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/2d2f060b-3d95-4f28-876c-a6aaac556eed" />
 
 ---
 
