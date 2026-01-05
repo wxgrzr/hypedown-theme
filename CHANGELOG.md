@@ -1,13 +1,25 @@
 # Change Log
 
-All notable changes to **Hypedown** are documented here.
-
-This project follows semantic versioning and prioritizes long-session readability,
-low visual noise, and excellent TypeScript / React clarity.
+All notable changes to **Hyperdark** are documented here. Or at least as much as I felt like updating to a certain point 😆.
 
 ---
 
-## [1.3.0] – 2025-XX-XX
+## [1.3.1] – 2026-01-05
+
+### Added
+
+- Refreshed the icon set (16/32/128/512) and marketplace metadata to support the Hyperdark branding
+- Introduced explicit colors for bracket highlighting/pair guides along with clearer Lightbulb hint accents
+
+### Changed
+
+- Renamed the remaining Hypedown TS variant to **Hyperdark** and removed the unused duplicate theme file for a single, consistent marketplace listing
+- Reframed the README/philosophy content with the new preview capture to better communicate the theme intent
+- Tweaked JSX attributes, imported aliases, hover/suggest borders, and CodeLens coloring to sharpen TypeScript/React readability
+
+---
+
+## [1.3.0] – 2025-??-??
 
 ### Changed
 
@@ -20,7 +32,7 @@ low visual noise, and excellent TypeScript / React clarity.
 
 ### Added
 
-- **Hypedown TS** variant, specifically tuned for TypeScript-heavy codebases
+- **Hypedown TS** variant
 - Enhanced semantic token support for:
   - Default library functions
   - Methods & properties
@@ -39,6 +51,5 @@ low visual noise, and excellent TypeScript / React clarity.
 
 ### Initial Release
 
-- Core Hypedown palette
-- Balanced contrast dark theme inspired by Vim workflows
+- Core Hypedown theme palette
 - Focused on calm UI chrome and readable syntax highlighting
