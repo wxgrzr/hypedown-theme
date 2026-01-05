@@ -1,7 +1,7 @@
 {
   "name": "hypedown-theme",
   "displayName": "Hyperdark theme",
-  "description": "A low contrast dark theme made with Typescript and React code in mind. I like a lot of vim colorschemes, so I guess it's inspired by that. It's a better poimandres, with no neon or oversaturated colors. Farm aura at work with it ✨ idk lol",
+  "description": "A low contrast dark theme made with Typescript and React code in mind. I like a lot of vim colorschemes, so I guess it's inspired by many of the colorschemes I've seen from that community. It's a better poimandres, with little to no neon or oversaturated colors to distract you from what's important.",
   "version": "1.4.0",
   "icon": "assets/128x128.png",
   "publisher": "voidfaithnull",
@@ -15,25 +15,40 @@
   "keywords": [
     "theme",
     "dark theme",
+    "dark mode",
     "typescript",
     "react",
     "jsx",
     "frontend",
     "low contrast",
     "minimal",
-    "vim",
-    "developer"
+    "soft",
+    "modern",
+    "clean",
+    "borderless",
+    "seamless",
+    "types",
+    "clarity",
+    "syntax",
+    "tsx",
+    "html",
+    "readable",
+    "comfortable",
+    "cozy",
+    "clear",
+    "subtle"
   ],
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "Hypedown",
+        "label": "Hyperdark",
         "uiTheme": "vs-dark",
         "path": "./themes/hyperdark-theme.json"
       }
-    ],
-    "configuration": {
-      "title": "Hyp"
-    }
+    ]
   }
 }
