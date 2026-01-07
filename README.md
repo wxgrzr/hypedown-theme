@@ -1,4 +1,4 @@
-# Hyperdark
+# Hyperdark (formerly 'Hypedown' Theme)
 
 A low contrast, mellow dark theme for VS Code with a muted color palette.
 
