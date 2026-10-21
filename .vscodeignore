@@ -1,7 +1,0 @@
-.vscode/**
-.vscode-test/**
-.gitignore
-.env
-.env.*
-.DS_Store
-image.png
