@@ -4,7 +4,9 @@ A higher contrast, yet mellow dark theme for VS Code with a mix of muted colors 
 
 Inspired by [Habamax Theme](https://marketplace.visualstudio.com/items?itemName=codelogix.habamax) which was a vim theme I used generously.
 
-![preview](image.png)
+## Preview Image
+
+![preview](./image.png)
 
 ## Feedback & Contributions
 
