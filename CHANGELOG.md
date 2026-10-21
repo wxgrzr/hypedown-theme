@@ -13,6 +13,7 @@ All notable changes to **Hyperdark** are documented here. Or at least as much as
 - README now describes Hyperdark as a higher contrast, yet mellow theme inspired by the Habamax vim theme, and the Philosophy section was condensed
 - README title now reads "Hyperdark (formerly 'Hypedown' Theme)" to reflect the rename
 - README preview image is now a local `image.png` (refreshed to show the new palette) instead of a GitHub-hosted asset, and the review/rating request was reworded
+- Marketplace keywords: dropped `low contrast` and added `dark` and `flat` to match the new positioning
 - Expanded `.gitignore` (`.DS_Store`, `dist`, `build`, `coverage`, `.env*`)
 - Added `.vscodeignore` so only the theme, icons, README, changelog, and license are packaged (keeps `.env`, `.vscode/`, and `image.png` out of the `.vsix`)
 

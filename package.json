@@ -20,7 +20,6 @@
     "react",
     "jsx",
     "frontend",
-    "low contrast",
     "minimal",
     "soft",
     "modern",
@@ -36,7 +35,9 @@
     "comfortable",
     "cozy",
     "clear",
-    "subtle"
+    "subtle",
+    "dark",
+    "flat"
   ],
   "license": "MIT",
   "engines": {
