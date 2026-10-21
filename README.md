@@ -1,23 +1,8 @@
 # Hyperdark (formerly 'Hypedown' Theme)
 
-A low contrast, mellow dark theme for VS Code with a muted color palette.
+A higher contrast, yet mellow dark theme for VS Code with a mix of muted colors and highlights to easily see the important things you want to see, while subduing ones of lesser importance.
 
-**Important:** This theme was made to suit my own preferences. I am not a professional theme developer so there may be some issues. However, I don't plan to maintain this much. Use at your own discretion.
-
-## Philosophy
-
-**I wanted:**
-
-- No neon or bright colors
-- No excessive italics
-- No rainbow punctuation, brackets, or indents
-- No visual clutter
-
-**It needed to:**
-
-- Remain aesthetically pleasing without impacting the quality of syntactical information
-- Written for typescript / react development
-- Easy to use for long coding sessions without strain
+Inspired by [Habamax Theme](https://marketplace.visualstudio.com/items?itemName=codelogix.habamax) which was a vim theme I used generously.
 
 ![preview](image.png)
 
