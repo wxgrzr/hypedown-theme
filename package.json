@@ -2,12 +2,12 @@
   "name": "hypedown-theme",
   "displayName": "Hyperdark theme",
   "description": "A low contrast dark theme made with Typescript and React code in mind. I like a lot of vim colorschemes, so I guess it's inspired by many of the colorschemes I've seen from that community. It's a better poimandres, with little to no neon or oversaturated colors to distract you from what's important.",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "icon": "assets/128x128.png",
   "publisher": "voidfaithnull",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wgrzr/hypedown-theme"
+    "url": "https://github.com/wxgrzr/hypedown-theme"
   },
   "categories": [
     "Themes"
@@ -20,7 +20,6 @@
     "react",
     "jsx",
     "frontend",
-    "low contrast",
     "minimal",
     "soft",
     "modern",
@@ -36,7 +35,9 @@
     "comfortable",
     "cozy",
     "clear",
-    "subtle"
+    "subtle",
+    "dark",
+    "flat"
   ],
   "license": "MIT",
   "engines": {
