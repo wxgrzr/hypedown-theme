@@ -51,5 +51,11 @@
         "path": "./themes/hyperdark-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "release": "vsce publish --azure-credential"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.9.2"
   }
 }
